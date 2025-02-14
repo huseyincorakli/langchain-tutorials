@@ -1,0 +1,19 @@
+{
+  "name": "langchain-tutorials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.40",
+    "@langchain/openai": "^0.4.4",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.15"
+  }
+}
